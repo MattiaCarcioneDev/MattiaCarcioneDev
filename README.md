@@ -10,7 +10,7 @@ I'm Mattia, Full Stack Web Developer from Pavia, Italy. 💻
 ```sh
 const mattia = {
   code: ["HTML", "CSS", "Javascript", "C#", "PHP", "Go"],
-  frameworksLibrary: ["Bootstrap", "Tailwind", "Angular", "Vue.JS", "Node.JS", ".NET", "ASP.NET" "Laravel"],
+  frameworks: ["Bootstrap", "Tailwind", "Angular", "Vue.JS", "Node.JS", ".NET", "ASP.NET" "Laravel"],
   tools: ["Visual Studio", "VS Code", "Git", "Postman", "SQL Server Management Studio", "Canva", ".Net CLI", "Office"],
   databases: ["SQL", "MySQL", "PostgreSQL"],
   languages: {
